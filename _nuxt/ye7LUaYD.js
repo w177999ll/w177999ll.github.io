@@ -1,0 +1,1 @@
+import{d as s,o as a,n as e,t as o,v as t}from"./DpD38Hq9.js";const d=s({__name:"index",setup:s=>(a((()=>{e("/home")})),(s,a)=>(t(),o("div")))});export{d as default};

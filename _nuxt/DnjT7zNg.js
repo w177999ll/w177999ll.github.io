@@ -1,0 +1,1 @@
+import{aQ as n,aR as t,aS as a,ae as o,aT as r}from"./DpD38Hq9.js";function s(s,u={}){const e=function(n){var s;const u=n||t();return(null==(s=null==u?void 0:u.ssrContext)?void 0:s.head)||(null==u?void 0:u.runWithContext((()=>{if(a())return o(r)})))}(u.nuxt);if(e)return n(s,{head:e,...u})}export{s as u};

@@ -1,0 +1,1 @@
+import{o,e as t,aU as e,cr as n}from"./DpD38Hq9.js";let a,s;var i,l;function d(e){if(s)return;let n=!1;o((()=>{s||null==a||a.then((()=>{n||e()}))})),t((()=>{n=!0}))}a=e?null===(l=null===(i=document)||void 0===i?void 0:i.fonts)||void 0===l?void 0:l.ready:void 0,s=!1,void 0!==a?a.then((()=>{s=!0})):s=!0;const{c:r}=n(),u="vueuc-style";export{u as a,r as c,d as o};
