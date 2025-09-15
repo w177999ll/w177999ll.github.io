@@ -389,7 +389,7 @@ const oe = e("layout-footer", "\n transition:\n box-shadow .3s var(--n-bezier),\
 								src: L,
 								alt: "Logo",
 								class: "h-10 rounded-lg"
-							}), y(" 甜菜 ")], -1)), f("div", pe, [g(t)
+							}), y(" ❤ ")], -1)), f("div", pe, [g(t)
 								.username ? (u(), j(C, {
 									key: 0
 								}, [y(h(null == (r = null == (o = g(t)) ? void 0 : o.gameRole) ? void 0 : r.name) + " ", 1), b(x, {
