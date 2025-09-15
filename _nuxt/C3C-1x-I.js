@@ -112,7 +112,7 @@ const L = {
 		__name: "login",
 		setup(t) {
 			h({
-				title: "用户登录 - 甜菜"
+				title: "用户登录"
 			});
 			const J = v(),
 				N = l(null),
