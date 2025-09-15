@@ -53,7 +53,7 @@ const m = {
 					_: 1
 				}), s[0] || (s[0] = e("span", {
 					class: "notice-title"
-				}, "重要提示", -1))]), e("div", g, [i(b, {
+				}, "❤今天你emo了吗❤", -1))]), e("div", g, [i(b, {
 					size: "18",
 					color: f.value ? "#718096" : "#e74c3c"
 				}, {
@@ -69,7 +69,7 @@ const m = {
 					class: p(["notice-content", {
 						collapsed: f.value
 					}])
-				}, s[1] || (s[1] = [l('<div class="content-inner" data-v-5c959ddf><div class="notice-item" data-v-5c959ddf><span data-v-5c959ddf><strong data-v-5c959ddf>反馈交流Q群:940270211、1050775820</strong>。</span></div>', 1)]), 2)])
+				}, s[1] || (s[1] = [l('<div class="content-inner" data-v-5c959ddf><div class="notice-item" data-v-5c959ddf><span data-v-5c959ddf><strong data-v-5c959ddf>爱情来的太快就像龙卷风/strong>。</span></div>', 1)]), 2)])
 			}
 		}
 	}), [
