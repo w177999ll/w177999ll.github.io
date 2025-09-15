@@ -612,7 +612,7 @@ we = R(d({
             }, 8, ["type"])]), (null == (W = y(r)) ? void 0 : W.vipExpireAt) ? (S(), f("div", ye, " 到期时间：" + j(("formatDate" in e ? e.formatDate : y(n))(null == (K = y(r)) ? void 0 : K.vipExpireAt, "YYYY-MM-DD")), 1)) : $("", !0)])])])]), v(we, {
                 type: "info"
             }, {
-                default: h((() => o[6] || (o[6] = [m("div", null, "本工具不会在服务器端运行玩家任何操作，防止异常IP导致的封号。", -1), m("div", null, "如何自动执行任务请点击下方API接口", -1), m("div", null, "反馈交流Q群:940270211、1050775820", -1)]))),
+                default: h((() => o[6] || (o[6] = [m("div", null, "爱我还是他。", -1), m("div", null, "如何自动执行任务请点击下方API接口", -1), m("div", null, "这场雨，不打伞或许更浪费", -1)]))),
                 _: 1
             }), v(ke, {
                 options: L,
