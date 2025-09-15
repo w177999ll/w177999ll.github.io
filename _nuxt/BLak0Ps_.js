@@ -105,7 +105,7 @@ const S = {
 		__name: "register",
 		setup(props) {
 			g({
-				title: "用户注册 - 甜菜"
+				title: "用户注册"
 			});
 			const m = x(),
 				formRef = e(null),
