@@ -234,7 +234,7 @@ const L = {
 					}, "w-8 h-8 lg:w-10 lg:h-10"])
 				}, null, 2), l[7] || (l[7] = o("span", {
 					class: "text-xl lg:text-2xl font-bold tracking-wider"
-				}, "甜菜", -1))]), o("div", E, [l[11] || (l[11] = o("h2", {
+				}, "希露薇❤", -1))]), o("div", E, [l[11] || (l[11] = o("h2", {
 					class: "text-2xl lg:text-4xl font-bold mb-4 lg:mb-6 gradient-text-white"
 				}, " 欢迎回来 ", -1)), c(Y) ? d("", !0) : (x(), i("div", F, [o("div", {
 					class: u(["flex items-center space-x-2 lg:space-x-3", {
