@@ -69,7 +69,7 @@ const m = {
 					class: p(["notice-content", {
 						collapsed: f.value
 					}])
-				}, s[1] || (s[1] = [l('<div class="content-inner" data-v-5c959ddf><div class="notice-item" data-v-5c959ddf><span data-v-5c959ddf><strong data-v-5c959ddf>爱情来的太快就像龙卷风/strong>。</span></div>', 1)]), 2)])
+				}, s[1] || (s[1] = [l('<div class="content-inner" data-v-5c959ddf><div class="notice-item" data-v-5c959ddf><span data-v-5c959ddf><strong data-v-5c959ddf>爱情来的太快就像龙卷风</strong>。</span></div>', 1)]), 2)])
 			}
 		}
 	}), [
