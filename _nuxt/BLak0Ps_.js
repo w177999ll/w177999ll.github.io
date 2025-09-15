@@ -246,7 +246,7 @@ const S = {
 					}, "w-8 h-8 lg:w-10 lg:h-10"])
 				}, null, 2), e[7] || (e[7] = u("span", {
 					class: "text-xl lg:text-2xl font-bold tracking-wider"
-				}, "🏹", -1))]), u("div", F, [e[11] || (e[11] = u("h2", {
+				}, "希露薇❤", -1))]), u("div", F, [e[11] || (e[11] = u("h2", {
 					class: "text-2xl lg:text-4xl font-bold mb-4 lg:mb-6 gradient-text-white"
 				}, " 开启您的探索之旅 ", -1)), e[12] || (e[12] = u("p", {
 					class: "text-base lg:text-lg text-blue-100 mb-6 lg:mb-8"
